@@ -1,25 +1,24 @@
 # Algorithmic-Trading-Strategies
-Algorithmic Trading Strategies Textbook
 
 Repository Overview
 
-Welcome to the GitHub repository for our textbook on Algorithmic Trading Strategies. This work is a comprehensive exploration into the fusion of finance, mathematics, and technology, presenting a dynamic landscape where these disciplines intersect with trading.
+This GitHub repository accompanies the textbook "Algorithmic Trading Strategies." It is an extensive exploration into the amalgamation of finance, mathematics, and technology, showcasing how these realms converge in the world of trading.
 
 About the Textbook
 
-Our textbook serves as a guide through the intricate world of algorithmic trading. Far from just a practical manual, this book aims to deepen your understanding of the underlying theories and mathematics, the transformative power of machine learning, and the artistry in formulating sophisticated trading models.
+The textbook is designed as a comprehensive guide through the complex landscape of algorithmic trading. It goes beyond imparting practical skills, aiming instead to deepen the reader's understanding of the foundational theories, complex mathematics, and the innovative application of machine learning in trading models.
 
 Teaching Philosophy
-Our approach goes beyond teaching coding or execution skills. We strive to instill a profound comprehension of fundamental theories, enabling you to not only adapt to but also to lead in the rapidly evolving financial landscape. In an era where developments like Chat GPT are reshaping our world, a deep foundational knowledge is more crucial than ever.
+The textbook's approach extends past merely instructing on coding or current trading strategies. It aims to instill in-depth knowledge of fundamental theories, preparing readers to adapt to and lead in the fast-evolving financial world, especially in times of transformative technologies like Chat GPT.
 
 Content Focus
-The book covers a spectrum of trading strategies:
+The book encompasses a broad range of trading strategies:
 
-Fundamental to Cutting-edge Strategies: From long-term investment strategies of hedge funds and pension funds to high-frequency trading.
-Comprehensive Spectrum: Includes fundamental trading strategies with a focus on factors, portfolio trading, statistical arbitrage, and machine learning-focused strategies.
-Legacy and Evolution: Honoring the legacy of pioneers like Markowitz while exploring modern developments like online reinforcement learning.
-Application of Machine Learning: Delving into the use of ML techniques in factor-based strategies and traditional indicator-based trading.
-Execution Strategies: Introducing key concepts and essential aspects relevant to algorithmic trading.
+From Fundamental to Advanced Strategies: It covers the spectrum from long-term investment strategies used by hedge funds and pension funds to high-frequency trading.
+Exploring the Entire Trading Spectrum: The content includes fundamental trading strategies with a focus on factors, comprehensive portfolio trading techniques, statistical arbitrage, and machine learning-focused strategies.
+Legacy and Modern Developments: The textbook acknowledges the legacy of pioneers such as Markowitz, while exploring contemporary advancements like online reinforcement learning.
+Machine Learning Applications: It delves into the use of machine learning in factor-based strategies and in enhancing traditional indicator-based trading.
+Execution Strategies: The book provides an introduction to key concepts and essential aspects of execution strategies relevant to algorithmic trading.
 Repository Structure
-This repository contains the code and resources accompanying each chapter of the textbook. It is structured to enhance your learning experience, with practical examples and implementations of the strategies discussed.
+This repository contains the code and additional resources for each chapter of the textbook, enhancing the learning experience with practical examples and implementations of the discussed strategies.
 
